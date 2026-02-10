@@ -1,0 +1,16 @@
+#!/bin/dash
+
+# colors
+
+black=#2d2a2e
+gray2=#403e41
+gray3=#5b595c
+gray4=#939293
+blue=#78dce8
+red=#ff6188
+orange=#fc9867
+yellow=#ffd866
+green=#a9dc76
+pink=#ab9df2
+white=#fcfcfa
+col_borderbar=#2d2a2e
